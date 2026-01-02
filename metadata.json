@@ -1,0 +1,7 @@
+{
+  "name": "Klinik Sund Fod - Moderne Fodterapi",
+  "description": "En moderne og professionel platform for Klinik Sund Fod, der tilbyder specialiseret fodbehandling, vejledning og booking i hjertet af Frederiksberg.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
